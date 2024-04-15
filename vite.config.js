@@ -17,6 +17,8 @@ export default defineConfig({
 				index: resolve(__dirname, './index.html'),
 				demo: resolve(__dirname, './live-demo.html'),
 				login: resolve(__dirname, './login.html'),
+				toast: resolve(__dirname, './toast.html'), 
+				modal: resolve(__dirname, './modal.html'), 
 			},
 		},
 	},
